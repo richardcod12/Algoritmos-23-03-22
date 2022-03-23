@@ -1,0 +1,17 @@
+.Nome do funcionario
+.Idade do funcionario
+.O estado civil do funcionario
+.Quantos filhos o funcionario tem
+.Qual o salario do funcionario
+.se a idade for maior que 60
+.Plano de aposentadoria
+.se nao, não tem plano de aposentadoria
+.se tiver filhos
+.tem direito ao auxilio familia
+.se não, não tem direito ao auxilio familia
+.Se tiver mais de 5 anos na empresa
+.Tem direito ao abono salarial
+.se não, não tem direito ao abono salarial
+.Se salario for maior que 4.300
+.tem direito ao abono salarial
+.se não, não tem direito ao abono salarial
